@@ -588,22 +588,26 @@ button:focus {
 }
 
 
-@media only screen and (max-width: 572px) {
+@media only screen and (max-width: 600px) {
     
     .timeline-box {
         width: 100%;
         left: 10% !important;
     }
 
+   
     .bars {
         display: block;
     }
-    
-    
     .nav-menu {
         display: none;
     } 
+
+    
+    
+    
 }
+
 
 
 
@@ -642,4 +646,7 @@ button:focus {
         margin: 10%;
     }
 
+
+    
+   
 }
